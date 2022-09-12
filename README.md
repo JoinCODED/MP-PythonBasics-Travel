@@ -16,4 +16,4 @@
 
 5. Modify your `trip_cost` function definition. Add a third argument, `spending_money`. Add the variable `spending_money` to the sum that it returns.
 
-6. Print out the `trip_cost` to 'Dubai' for 5 days with an extra 500 KWD of spending money.
+6. Print out the `trip_cost` to **Dubai** for **5 days** with an extra **500 KWD** of spending money.
