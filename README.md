@@ -1,3 +1,7 @@
+## Setup
+1. Fork [this assessment](https://replit.com/@InstructorCODED/5-Mini-Project-1#main.py).
+
+## Requirements
 1. Define a function called `hotel_cost` with one argument `days` as input. The hotel costs 40 KWD per night. So, the function `hotel_cost` should return `40 * days`.
 
 2. Define a function called `plane_ride_cost` that takes a string, `city`, as input. The function should return a different price depending on the location. Below are the valid destinations and their corresponding round-trip prices.
