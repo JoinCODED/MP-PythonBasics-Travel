@@ -1,5 +1,11 @@
 ## Setup
-1. Fork [this assessment](https://replit.com/@InstructorCODED/5-Mini-Project-1#main.py).
+
+1. Go to the [following link](https://replit.com/team/coded-instructor).
+2. Open the task **5. Assessment 1**.
+3. Open `main.py` and solve the task.
+4. Once you're done click on the submit button.
+
+---
 
 ## Requirements
 1. Define a function called `hotel_cost` with one argument `days` as input. The hotel costs 40 KWD per night. So, the function `hotel_cost` should return `40 * days`.
